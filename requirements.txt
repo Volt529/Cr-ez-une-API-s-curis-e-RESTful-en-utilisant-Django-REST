@@ -1,0 +1,13 @@
+Django==5.0.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+drf-nested-routers==0.93.5
+django-cors-headers==4.3.1
+python-dotenv==1.0.0
+
+# Pour PostgreSQL (optionnel)
+# psycopg2-binary==2.9.9
+
+# Pour les tests
+pytest==7.4.4
+pytest-django==4.7.0
